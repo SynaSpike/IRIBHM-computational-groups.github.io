@@ -141,3 +141,20 @@ I completed my master’s in biomedical sciences at the Free University of Bruss
 ### Current Research
 
 In my current project, my main focus lies on genomic events occurring during human development. Through a robust collaboration with the Jules Bordet Institute, our current screening involves various aggressive human cancer biopsies. Our aim is to study the occurrence of copy-number events, particularly focusing on whole-genome doubling events.
+
+
+## Antonia Vlaicu
+
+👨‍🔬 PhD — ✉️ Ioana-Antonia.Vlaicu@ulb.be — be Brussels
+
+<figure><img src="../.gitbook/assets/photoLinkedIn.jpg" alt=""><figcaption><p>Brussels (Belgium)</p></figcaption></figure>
+
+### Bio
+
+Hi, I'm Antonia and I started my PhD in October 2023, under the supervision of Dr. Maxime Tarabichi. I have a background in computer science and a master’s in bioinformatics and modeling at ULB. During my master thesis I worked on developing a database of copy number profiles, inferred from raw microarray data of thousands of tumor samples.
+
+### Current Research
+
+My PhD thesis mainly consists of developing and improving an in-house copy number calling R package called ASCAT.sc. This aims to allow the retrieval of copy number profiles of tumors from a wide array of raw data types, such as methylation arrays, single cell ATAC sequencing and Tapestri sequencing.
+I’m also collaborating with PhD student Maxime Lefèbvre on a project aiming to uncover genomic variation in the non-unique regions of the genome using short read sequencing.
+
