@@ -158,3 +158,19 @@ Hi, I'm Antonia and I started my PhD in October 2023, under the supervision of D
 My PhD thesis mainly consists of developing and improving an in-house copy number calling R package called ASCAT.sc. This aims to allow the retrieval of copy number profiles of tumors from a wide array of raw data types, such as methylation arrays, single cell ATAC sequencing and Tapestri sequencing.
 I’m also collaborating with PhD student Maxime Lefèbvre on a project aiming to uncover genomic variation in the non-unique regions of the genome using short read sequencing.
 
+
+## Aida Ortiz Garcia
+
+👨‍🔬 PhD — ✉️ aida.ortiz.garcia@ulb.be — be Brussels
+
+<figure><img src="../.gitbook/assets/aida.jpeg" alt=""><figcaption><p>Brussels (Belgium)</p></figcaption></figure>
+
+### Bio
+
+Hello, I am Aida! A PhD student since April 2023. I did my bachelor in Biology in the University of Extremadura in Spain. In the final year of my bachelor, I developed an interest in bioinformatics, which led me to pursue a Master’s degree in Bioinformatics at KU Leuven in Belgium.
+My favorite area of study was the analysis of sequencing data, particularly within the field of cancer research. To further specialize in this area, I began my PhD at the Laboratory of Histology at Université Libre de Bruxelles (ULB) in Belgium.
+
+### Current Research
+
+My PhD project is centered on understanding the malignant progression of squamous cell carcinoma (SCC), the second most common type of skin cancer. Through sequencing of normal skin, actinic keratosis (premalignant lesion) and SCC, our goal is to understand the initiation and progression of malignancy leading to SCC, while defining the different cell-types and cell-states present on each stage of the progression. This would bring new insights, not only to get an effective treatment for SCC but also for the prevention and early diagnosis.
+
